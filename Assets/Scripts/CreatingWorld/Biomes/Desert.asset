@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4775856e8e3c510428834c9c99a31478, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  biomeName: Desert
+  topTileName: SandTop
+  aboveTileName: Sand
+  underTileName: SandStone
+  topTileColor: {r: 0.899371, g: 0.67856115, b: 0.008484492, a: 1}
+  aboveTileColor: {r: 0.78616345, g: 0.57072943, b: 0, a: 1}
+  underTileColor: {r: 0.44654083, g: 0.28721952, b: 0.009829441, a: 1}
+  biomeLengthPercent: 25
+  biomeLength: 50
+  biomeLengthVariationPercent: 1
+  biomeLengthVariation: 2
+  biomeDepthPercent: 45
+  biomeDepth: 45
+  biomeDepthVariationPercent: 2
+  biomeDepthVariation: 2
